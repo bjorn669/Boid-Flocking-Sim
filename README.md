@@ -22,7 +22,7 @@ Videos of each functionalities and screenshort of different results are availabl
 </p>
 
 <p align="center">
-  <img src="https://github.com/bjorn6699/Boid-Flocking-Sim/assets/119690087/4946c45d-65ee-42c5-a7ae-758093b32805" width="400" height="400">
+  <img src="https://github.com/bjorn6699/Boid-Flocking-Sim/assets/119690087/4946c45d-65ee-42c5-a7ae-758093b32805" width="450" height="450">
 </p>
 
 
