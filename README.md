@@ -19,7 +19,7 @@ Videos of each functionalities and screenshort of different results are availabl
 ### The trajectories of the drones/boids can be tracked and sent to real drones !
 ![image](https://github.com/bjorn6699/Boid-Flocking-Sim/assets/119690087/b7840922-4236-45d1-be7f-40b67cc593cb)
 <p align="center">
-  <img src="https://github.com/bjorn6699/Boid-Flocking-Sim/assets/119690087/4946c45d-65ee-42c5-a7ae-758093b32805" width="800" height="800">
+  <img src="https://github.com/bjorn6699/Boid-Flocking-Sim/assets/119690087/4946c45d-65ee-42c5-a7ae-758093b32805" width="500" height="500">
 </p>
 
 
