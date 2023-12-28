@@ -16,6 +16,11 @@ Videos of each functionalities and screenshort of different results are availabl
 ### The boids will steer towards a waypoint set with the left click of the mouse ! 
 ![image](https://github.com/bjorn6699/Boid-Flocking-Sim/assets/119690087/3da52ddc-6dd1-44f5-b732-87c9577e0f30)
 
+### The trajectories of the drones/boids can be tracked and sent to real drones !
+![image](https://github.com/bjorn6699/Boid-Flocking-Sim/assets/119690087/b7840922-4236-45d1-be7f-40b67cc593cb)
+![image](https://github.com/bjorn6699/Boid-Flocking-Sim/assets/119690087/4946c45d-65ee-42c5-a7ae-758093b32805)
+
+
 ### TO MAKE THE SIM WORK: 
 
 !!! INSTRUCTIONS !!!
