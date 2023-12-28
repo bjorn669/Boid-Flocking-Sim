@@ -4,6 +4,10 @@ Boid Flocking simulation implemented as part of a project meant to fly a swarm o
 The full explanation of this project is visible in the pdf SNAU_Report !
 Videos of each functionalities and screenshort of different results are available in the sim folder. 
 
+![image](https://github.com/bjorn6699/Boid-Flocking-Sim/assets/119690087/01ff77cf-6d84-4753-b8a6-39aafaf8f82d)
+
+![image](https://github.com/bjorn6699/Boid-Flocking-Sim/assets/119690087/b97ad622-e7df-4c5c-ad1d-ce4f0a7672b8)
+
 ![image](https://github.com/bjorn6699/Boid-Flocking-Sim/assets/119690087/3da52ddc-6dd1-44f5-b732-87c9577e0f30)
 
 TO MAKE THE SIM WORK: 
