@@ -6,7 +6,8 @@ Videos of each functionalities and screenshort of different results are availabl
 
 ## After lauching the sim the boids progressively form tight swarms !
 ![image](https://github.com/bjorn6699/Boid-Flocking-Sim/assets/119690087/01ff77cf-6d84-4753-b8a6-39aafaf8f82d)
-![image](https://github.com/bjorn6699/Boid-Flocking-Sim/assets/119690087/f04b8128-5cb3-4bba-8c16-eec9def98994)
+![image](https://github.com/bjorn6699/Boid-Flocking-Sim/assets/119690087/7d56065e-1bd9-4a96-841d-e85d39cffe9f)
+
 
 
 ## The boids can avoid an obstacle set with a right click of the mouse ! 
