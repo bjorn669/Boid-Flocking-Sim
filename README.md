@@ -1,4 +1,4 @@
-# Boid-Flocking-Sim
+# Boid-Flocking-Sim-for-multi-drones-navigation
 Boid Flocking simulation implemented as part of a project meant to fly a swarm of tello drones from a point A to a point B and avoid obstacles. 
 
 ### The full explanation of this project is visible in the pdf SNAU_Report !
